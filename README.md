@@ -1,4 +1,27 @@
 # ABAP Florilegium
+A collection of the most popular ABAP-related repository sorted by category and scope of use.
+
+## Categories
+
+- [Document Processing](#docproc)
+- [UI & Presentation](#ui)
+- [Code & Data Visualization](#codevis)
+- [Code Templates & Generator](#codetemp)
+- [Data Formatting](#dataform)
+- [Data Processing](#dataproc)
+- [Testing](#test)
+- [Logging](#log)
+- [Packages & Versioning](#git)
+- [Code Inspector / Linter / Performance](#sci)
+- [Api & Services](#api)
+- [Integration](#int)
+- [Adt & Eclipse](#adt)
+- [Threading](#thr)
+- [Generic Utiligies](#gen)
+- [Samples & Learning](#sam)
+- [Documentation & Informations](#doc)
+
+<a name="docproc" />
 
 ### Document Processing
 |   project      |     description      | tags |
@@ -10,6 +33,8 @@
 |  [easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)   | Easy to Generate & Maintain Email in SAP (ABAP + HTML/CSS) | `email`, `html`
 |  [text2tab](https://github.com/sbcgua/text2tab)   | TAB-delimited text parser for ABAP | `text`
 
+<a name="ui" />
+
 ### UI & Presentation
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
@@ -17,6 +42,8 @@
 |  [falv](https://github.com/fidley/falv) | FALV - Fast ALV Grid | `alv`
 |  [eui](https://github.com/bizhuka/eui) | Easy UI in SAP | `alv`, `screens`
 |  [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) | ABAP deployment of SAPUI5 apps from Github | `sapui5`
+
+<a name="codevis" />
 
 ### Code & Data Visualization
 |   project      |     description      | tags |
@@ -33,6 +60,8 @@
 |  [abap_debugger_object_graph_extension](https://github.com/marcellourbani/abap_debugger_object_graph_extension) | ABAP debugger extension to visualize objects as graphs | `debugger`
 |  [abap-code-search-tools](https://github.com/stockbal/abap-code-search-tools) | ABAP Code Search | `search`
 
+<a name="codetemp" />
+
 ### Code Templates and Generator
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
@@ -41,6 +70,8 @@
 |  [abap_mustache](https://github.com/sbcgua/abap_mustache) | Mustache template engine for ABAP | `mustache`
 |  [FORMfactor](https://github.com/larshp/FORMfactor) | ABAP - Refactor FORMs to local classes | `refactoring`
 |  [abap_bapi_bo_class_generator](https://github.com/alwinvandeput/abap_bapi_bo_class_generator) | ABAP BAPI Business Object Class Generator | `object generation`
+
+<a name="dataform" />
 
 ### Data Formatting
 |   project      |     description      | tags |
@@ -51,6 +82,7 @@
 |  [ajson](https://github.com/sbcgua/ajson) | Yet another json parser serializer for ABAP | `json`
 |  [zcl_mdp_json](https://github.com/fatihpense/zcl_mdp_json) | MDP ABAP JSON library that can generate and parse any JSON string | `json`
 
+<a name="dataproc" />
 
 ### Data Processing
 |   project      |     description      | tags |
@@ -59,6 +91,8 @@
 |  [abap-data-validator](https://github.com/hhelibeb/abap-data-validator) | A data validation tool | `validation`
 |  [IDoc-with-ABAP-OOP](https://github.com/peyn/IDoc-with-ABAP-OOP) | IDoc-with-ABAP-OOP | `idoc`
 
+<a name="test" />
+
 ### Testing
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
@@ -66,6 +100,8 @@
 |  [mockA](https://github.com/uweku/mockA)   | mockA is a free Mocking Framework for ABAP | `mocking`
 |  [abapFaker](https://github.com/se38/abapFaker)   | ABAP Faker: generate fake test data | `mocking`
 |  [abap_db_preparator](https://github.com/bunysae/abap_db_preparator)   |Avoid breaking tests with database preparation | `db prep`
+
+<a name="log" />
 
 ### Logging
 |   project      |     description      | tags |
@@ -76,10 +112,15 @@
 |  [abap-log](https://github.com/fabianlupa/abap-log)   | Logging library for ABAP | `logger`
 |  [sap-usi-logging-api](https://github.com/SchwarzIT/sap-usi-logging-api)   | An easy-to-use, object-oriented encapsulation around the SAP application log (Transaction SLG1) | `logger`
 
-### Versioning
+<a name="git" />
+
+### Packages & Versioning
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
+|  [abapGit](https://github.com/abapGit/abapGit)   | Git client for ABAP | `git`
 |  [abapTimeMachine](https://github.com/abapinho/abapTimeMachine)   | ABAP Time Machine provides a much needed way to look at past versions of code in a consistent way. It also provides a sort of git-blame for ABAP (shows the request and author that last modified each line of code) | `versioning`
+
+<a name="sci" />
 
 ### Code Inspector / Linter / Performance
 |   project      |     description      | tags |
@@ -93,6 +134,8 @@
 |  [abap-metrics-provider](https://github.com/abap-observability-tools/abap-metrics-provider) | Let's you use predefined or custom metrics to monitor your abap stack with a monitoring tool of your choice | `performance`
 |  [upDOWNci](https://github.com/larshp/upDOWNci) | Upload and download SAP Code Inspector variants in XML format - ABAP | `inspector`
 
+<a name="api" />
+
 ### API and Services
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
@@ -102,6 +145,8 @@
 |  [abapMQ](https://github.com/INVIXO/abapMQ)   | ABAP MQTT client | `mqtt`
 |  [MQBA](https://github.com/MDJoerg/MQBA)   | Message Queue Broker ABAP | `mqtt`
 
+<a name="int" />
+
 ### Integration
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
@@ -109,6 +154,8 @@
 |  [ABAP-SDK-for-Azure](https://github.com/microsoft/ABAP-SDK-for-Azure) | ABAP Libraries for SAP native Integration with Azure Services | `azure`
 |  [abap2gapps](https://github.com/ivanfemia/abap2gapps) | ABAP API for Google Apps integration | `google`
 |  [abap2gsheet](https://github.com/techedgegroup-sap/abap2gsheet) | ABAP framework that abstract the Google Sheets API | `google`
+
+<a name="adt" />
 
 ### ADT & Eclipse
 |   project      |     description      | tags |
@@ -119,6 +166,8 @@
 |  [eclipse-abap-keywordcolors](https://github.com/FreHu/eclipse-abap-keywordcolors) | Customized ABAP keyword colors for eclipse | `adt`
 |  [abap-search-tools](https://github.com/stockbal/abap-search-tools) | ABAP Search and Analysis tools (Backend for ADT Plugin) | `adt`
 
+<a name="thr" />
+
 ### Threading
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
@@ -126,6 +175,8 @@
 |  [zthread](https://github.com/xinitrc86/zthread) | Simple Thread implementation for ABAP. Based on JAVA Thread, its Runnable interface with some additional callback capabilities | `concurrency`
 |  [promise](https://github.com/abapify/promise) | ABAP Promise + Async/Await implementation | `async`
 |  [abap-threads](https://github.com/sbcgua/abap-threads) | abap threading utils | `threading`
+
+<a name="gen" />
 
 ### Generic Utilities
 |   project      |     description      | tags |
@@ -142,7 +193,9 @@
 |  [zcx_return3](https://github.com/alwinvandeput/zcx_return3) | ABAP exception lclass for handling all kind of procedural error messages | `sql`
 |  [elitechat](https://github.com/AntonSikidin/elitechat) | abap based instant messaging | `chat`
 
-### Samples and Learning
+<a name="sam" />
+
+### Samples & Learning
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap-platform-rap-opensap](https://github.com/SAP-samples/abap-platform-rap-opensap)   | Samples for the openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."     | `abap RAP`
@@ -155,7 +208,9 @@
 |  [excrcism/abap](https://github.com/exercism/abap) | Exercism exercises in ABAP | `exercises`
 |  [New-ABAP-Tips-Tricks](https://github.com/suriyarasu/New-ABAP-Tips-Tricks) | This repository contains new ABAP syntax for S/4HANA Development| `language`
 
-### Documentation / Informations
+<a name="doc" />
+
+### Documentation & Informations
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [Eclipse_ADT_info_hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub) | collection of helpful information about ABAP Development Tools | `info`
