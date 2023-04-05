@@ -5,12 +5,17 @@
 |     :---:    |     :---:      | :---: |
 |  [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)   | Generate your professional Excel spreadsheet from ABAP     | `excel`
 
-### Data Visualization
+### Presentation and UI
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap2UI5](https://github.com/oblomov-dev/abap2UI5) | Development of UI5 Apps in pure ABAP | `alv`
 |  [falv](https://github.com/fidley/falv) | FALV - Fast ALV Grid | `alv`
+
+### Data Visualization
+|   project      |     description      | tags |
+|     :---:    |     :---:      | :---: |
 |  [ABAP-Object-Visualizer](https://github.com/larshp/ABAP-Object-Visualizer) | Visualize complex object hierarchies using debugger script | `script`
+|  [ABAP-to-PlantUML](https://github.com/nomssi/ABAP-to-PlantUML) | Create UML Class and Sequence Diagrams from ABAP Code | `uml`
 
 ### Data Formatting
 |   project      |     description      | tags |
@@ -32,6 +37,7 @@
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [ABAP-Logger](https://github.com/ABAP-Logger/ABAP-Logger)   | ABAP Logging as painless as any other language    | `logger`
+|  [abap-fm-logger](https://github.com/hhelibeb/abap-fm-logger)   | A logger for function module (RFC) | `logger`
 
 ### Versioning
 |   project      |     description      | tags |
