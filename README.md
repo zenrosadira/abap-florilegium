@@ -1,6 +1,8 @@
 # ABAP Florilegium
 A collection of the most popular ABAP-related repository sorted by category and scope of use.
 
+<a name="up" />
+
 ## Categories
 
 - [Document Processing](#docproc)
@@ -23,7 +25,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="docproc" />
 
-### Document Processing
+### 🗒️ Document Processing	
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)   | Generate your professional Excel spreadsheet from ABAP     | `excel`
@@ -35,7 +37,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="ui" />
 
-### UI & Presentation
+### 🎨 UI & Presentation
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap2UI5](https://github.com/oblomov-dev/abap2UI5) | Development of UI5 Apps in pure ABAP | `alv`
@@ -45,7 +47,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="codevis" />
 
-### Code & Data Visualization
+### 💻 Code & Data Visualization
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [ABAP-Object-Visualizer](https://github.com/larshp/ABAP-Object-Visualizer) | Visualize complex object hierarchies using debugger script | `script`
@@ -62,7 +64,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="codetemp" />
 
-### Code Templates and Generator
+### 💡 Code Templates and Generator
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap-ddic-creator](https://github.com/Leo-SDU/abap-ddic-creator) | create table and data elements and domains by batching | `object generation`
@@ -73,7 +75,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="dataform" />
 
-### Data Formatting
+### 📔 Data Formatting
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap_fm_json](https://github.com/cesar-sap/abap_fm_json) | JSON adapter for ABAP Function Modules | `json`
@@ -84,7 +86,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="dataproc" />
 
-### Data Processing
+### 🪄 Data Processing
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [AES](https://github.com/Sumu-Ning/AES) | ABAP Utilities for AES/Rijndael encryption, decryption | `encryption`
@@ -93,7 +95,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="test" />
 
-### Testing
+### 🧪 Testing
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [mockup_loader](https://github.com/sbcgua/mockup_loader)   | ABAP unit testing framework, prepare in Excel, reuse in abap code | `mocking`
@@ -103,7 +105,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="log" />
 
-### Logging
+### 📝 Logging
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [ABAP-Logger](https://github.com/ABAP-Logger/ABAP-Logger)   | ABAP Logging as painless as any other language    | `logger`
@@ -114,7 +116,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="git" />
 
-### Packages & Versioning
+### 📦 Packages & Versioning
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abapGit](https://github.com/abapGit/abapGit)   | Git client for ABAP | `git`
@@ -122,7 +124,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="sci" />
 
-### Code Inspector / Linter / Performance
+### 🔎 Code Inspector / Linter / Performance
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap)   | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.    | `inspector`
@@ -136,7 +138,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="api" />
 
-### API and Services
+### 🐝 API and Services
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [ABAP-Swagger](https://github.com/larshp/ABAP-Swagger)   | Expose ABAP REST services with Swagger/openapi spec    | `api`
@@ -147,7 +149,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="int" />
 
-### Integration
+### 🖇️ Integration
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) | Remote filesystem for ABAP systems | `vscode`
@@ -157,7 +159,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="adt" />
 
-### ADT & Eclipse
+### 🌖 ADT & Eclipse
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap-adt-api](https://github.com/marcellourbani/abap-adt-api) | Abap Developer Tools client | `adt`
@@ -168,7 +170,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="thr" />
 
-### Threading
+### 🛤️ Threading
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [zconcurrency_api](https://github.com/victorizbitskiy/zconcurrency_api) | ABAP Development Utilities | `concurrency`
@@ -178,7 +180,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="gen" />
 
-### Generic Utilities
+### 🧰 Generic Utilities
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap-dev-utilities](https://github.com/jrodriguez-rc/abap-dev-utilities) | ABAP Development Utilities | `utilities`
@@ -195,7 +197,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="sam" />
 
-### Samples & Learning
+### 👩‍🎓 Samples & Learning
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap-platform-rap-opensap](https://github.com/SAP-samples/abap-platform-rap-opensap)   | Samples for the openSAP course "Building Apps with the ABAP RESTful Application Programming model (RAP)."     | `abap RAP`
@@ -210,7 +212,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="doc" />
 
-### Documentation & Informations
+### ℹ️ Documentation & Informations
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [Eclipse_ADT_info_hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub) | collection of helpful information about ABAP Development Tools | `info`
