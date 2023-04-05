@@ -16,6 +16,11 @@
 |     :---:    |     :---:      | :---: |
 |  [abap_fm_json](https://github.com/cesar-sap/abap_fm_json) | JSON adapter for ABAP Function Modules | `json`
 
+### Data Processing
+|   project      |     description      | tags |
+|     :---:    |     :---:      | :---: |
+|  [AES](https://github.com/Sumu-Ning/AES) | ABAP Utilities for AES/Rijndael encryption, decryption | `encryption`
+
 ### Logging
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
@@ -48,6 +53,7 @@
 |  [abap-cheat-sheets](https://github.com/SAP-samples/abap-cheat-sheets) | Explore ABAP syntax in a nutshell supported by executable demo examples | `cheat-sheet`
 |  [ABAPDesignPattern](https://github.com/moreus/ABAPDesignPattern) | 23 Design Patterns in ABAP | `oop`
 |  [ABAP-OOP-Library](https://github.com/rvanmil/ABAP-OOP-Library) | ABAP Object-oriented programming Library | `oop`
+|  [abap_oo_patterns](https://github.com/SchwarzIT/abap_oo_patterns) |Example implementation of OO design patterns in ABAP | `oop`
 
 ### Documentation / Informations
 |   project      |     description      | tags |
