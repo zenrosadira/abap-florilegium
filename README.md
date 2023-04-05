@@ -40,7 +40,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 ### 🎨 UI & Presentation
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
-|  [abap2UI5](https://github.com/oblomov-dev/abap2UI5) | Development of UI5 Apps in pure ABAP | `alv`
+|  [abap2UI5](https://github.com/oblomov-dev/abap2UI5) | Development of UI5 Apps in pure ABAP | `sapui5`
 |  [falv](https://github.com/fidley/falv) | FALV - Fast ALV Grid | `alv`
 |  [eui](https://github.com/bizhuka/eui) | Easy UI in SAP | `alv`, `screens`
 |  [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) | ABAP deployment of SAPUI5 apps from Github | `sapui5`
@@ -50,7 +50,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 ### 💻 Code & Data Visualization
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
-|  [ABAP-Object-Visualizer](https://github.com/larshp/ABAP-Object-Visualizer) | Visualize complex object hierarchies using debugger script | `script`
+|  [ABAP-Object-Visualizer](https://github.com/larshp/ABAP-Object-Visualizer) | Visualize complex object hierarchies using debugger script | `viewer`
 |  [Simple Data Explorer](https://github.com/ysichov/Simple-Data-Explorer) | Simple Data Explorer | `viewer`
 |  [abap-markdown](https://github.com/koemaeda/abap-markdown) | ABAP Markdown | `markdown`
 |  [ztoad](https://github.com/marianfoo/ztoad) | ABAP Open SQL Editor | `viewer`
