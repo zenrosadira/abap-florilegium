@@ -34,6 +34,8 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [xtt](https://github.com/bizhuka/xtt)   | ABAP template engine for Excel, Word, Html & Pdf | `excel`, `word`, `pdf`
 |  [easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)   | Easy to Generate & Maintain Email in SAP (ABAP + HTML/CSS) | `email`, `html`
 |  [text2tab](https://github.com/sbcgua/text2tab)   | TAB-delimited text parser for ABAP | `text`
+|  [ABAP2XLSX_HELPER](https://github.com/boy0korea/ABAP2XLSX_HELPER)   | abap2xlsx helper | `excel`
+|  [ZwdCSV](https://github.com/WegnerDan/ZwdCSV)   | CSV Parser and Generator for ABAP | `csv`
 
 <a name="ui" />
 
@@ -44,6 +46,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [falv](https://github.com/fidley/falv) | FALV - Fast ALV Grid | `alv`
 |  [eui](https://github.com/bizhuka/eui) | Easy UI in SAP | `alv`, `screens`
 |  [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) | ABAP deployment of SAPUI5 apps from Github | `sapui5`
+|  [abap-ui-toolbox](https://github.com/stockbal/abap-ui-toolbox) | Tools for UI Development like Improved ALV Grid and GUI control framework | `alv`, `gui`
 
 <a name="codevis" />
 
@@ -61,6 +64,9 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-db-browser](https://github.com/stockbal/abap-db-browser) | ABAP DB Browser (Tables, Views, CDS Views, Custom Queries, Joins, ...) | `viewer`
 |  [abap_debugger_object_graph_extension](https://github.com/marcellourbani/abap_debugger_object_graph_extension) | ABAP debugger extension to visualize objects as graphs | `debugger`
 |  [abap-code-search-tools](https://github.com/stockbal/abap-code-search-tools) | ABAP Code Search | `search`
+|  [ABAP-2-CODE-CHARTA](https://github.com/BenjaminWeisheit/ABAP-2-CODE-CHARTA) | Covert ABAP Metrics to Code Charta | `viewer`
+|  [ZDDIC_FINDER](https://github.com/coreline/ZDDIC_FINDER) | ABAP Dictionary object finder tool | `search`
+|  [scf](https://github.com/reyemsaibot/scf) | You are looking for a specific code snippet in your ABAP code. Then use the Source Code Finder to search for every occurrence of it. | `search`
 
 <a name="codetemp" />
 
@@ -72,6 +78,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap_mustache](https://github.com/sbcgua/abap_mustache) | Mustache template engine for ABAP | `mustache`
 |  [FORMfactor](https://github.com/larshp/FORMfactor) | ABAP - Refactor FORMs to local classes | `refactoring`
 |  [abap_bapi_bo_class_generator](https://github.com/alwinvandeput/abap_bapi_bo_class_generator) | ABAP BAPI Business Object Class Generator | `object generation`
+|  [guidrasil](https://github.com/tricktresor/guidrasil) | ABAP GUI designer for Prototyping and more | `gui`
 
 <a name="dataform" />
 
@@ -90,8 +97,14 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [AES](https://github.com/Sumu-Ning/AES) | ABAP Utilities for AES/Rijndael encryption, decryption | `encryption`
+|  [abap_jwt_generator](https://github.com/abapChaoLiu/abap_jwt_generator) | ABAP JWT Generator | `authentication`
+|  [blowfish-abap](https://github.com/hhelibeb/blowfish-abap) | Blowfish encryption in ABAP | `encryption`
 |  [abap-data-validator](https://github.com/hhelibeb/abap-data-validator) | A data validation tool | `validation`
 |  [IDoc-with-ABAP-OOP](https://github.com/peyn/IDoc-with-ABAP-OOP) | IDoc-with-ABAP-OOP | `idoc`
+|  [geohash-abap](https://github.com/hhelibeb/geohash-abap) | Geohash utitlies in ABAP | `encryption`
+|  [abapPGP](https://github.com/larshp/abapPGP) | ABAP implementation of OpenPGP | `encryption`
+|  [uid64](https://github.com/mkysoft/uid64) | UID-64 generator for ABAP | `uuid`
+|  [GeoJson](https://github.com/se38/GeoJson) | ABAP Classes to create GeoJson strings | `json`
 
 <a name="test" />
 
@@ -102,6 +115,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [mockA](https://github.com/uweku/mockA)   | mockA is a free Mocking Framework for ABAP | `mocking`
 |  [abapFaker](https://github.com/se38/abapFaker)   | ABAP Faker: generate fake test data | `mocking`
 |  [abap_db_preparator](https://github.com/bunysae/abap_db_preparator)   |Avoid breaking tests with database preparation | `db prep`
+|  [regression_test](https://github.com/germanysources/regression_test) | Create snapshots in ABAP | `db prep`
 
 <a name="log" />
 
@@ -113,6 +127,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter)   | Exports SAP Netweaver logs to a log system of your choice. | `logs`
 |  [abap-log](https://github.com/fabianlupa/abap-log)   | Logging library for ABAP | `logger`
 |  [sap-usi-logging-api](https://github.com/SchwarzIT/sap-usi-logging-api)   | An easy-to-use, object-oriented encapsulation around the SAP application log (Transaction SLG1) | `logger`
+|  [simbal](https://github.com/keremkoseoglu/simbal)   | Simple Business Application Log for ABAP | `logger`
 
 <a name="git" />
 
@@ -138,7 +153,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 <a name="api" />
 
-### 🐝 API and Services
+### 🐝 API & Services
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [ABAP-Swagger](https://github.com/larshp/ABAP-Swagger)   | Expose ABAP REST services with Swagger/openapi spec    | `api`
@@ -146,16 +161,24 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-rest-api](https://github.com/pacroy/abap-rest-api)   | Simple ABAP REST API | `api`
 |  [abapMQ](https://github.com/INVIXO/abapMQ)   | ABAP MQTT client | `mqtt`
 |  [MQBA](https://github.com/MDJoerg/MQBA)   | Message Queue Broker ABAP | `mqtt`
+|  [abapMQDaemons](https://github.com/se38/abapMQDaemons)   | Deamons for abapMQ | `mqtt`
+|  [abapNTLM](https://github.com/larshp/abapNTLM)   | ABAP HTTP NTLM Client | `ntlm`
+|  [abap-openapi-ui](https://github.com/geert-janklaps/abap-openapi-ui)   | OpenAPI / Swagger UI integration for SAP NetWeaver Gateway | `api`
 
 <a name="int" />
 
 ### 🖇️ Integration
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
-|  [vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) | Remote filesystem for ABAP systems | `vscode`
+|  [vscode_abap_remote_fs](https://github.com/marcellourbani/vscode_abap_remote_fs) | Remote filesystem for ABAP systems | `vsc`
 |  [ABAP-SDK-for-Azure](https://github.com/microsoft/ABAP-SDK-for-Azure) | ABAP Libraries for SAP native Integration with Azure Services | `azure`
 |  [abap2gapps](https://github.com/ivanfemia/abap2gapps) | ABAP API for Google Apps integration | `google`
 |  [abap2gsheet](https://github.com/techedgegroup-sap/abap2gsheet) | ABAP framework that abstract the Google Sheets API | `google`
+|  [abap2oauth2](https://github.com/ivanfemia/abap2oauth2) | ABAP API for OAuth2 authentication | `authentication`
+|  [ABAPFire](https://github.com/alborghetti/ABAPFire) | ABAP Firebase Client | `firebase`
+|  [aws-lambda-abap-runtime](https://github.com/open-abap/aws-lambda-abap-runtime) | AWS Lambda ABAP custom runtime | `aws`
+|  [proUBC](https://github.com/provideplatform/proUBC) | Open-source implementation of the PRVD Stack baseline middleware pattern for SAP, using ABAP | `baseline`
+|  [abap-prometheus](https://github.com/pacroy/abap-prometheus) | Prometheus.io Client for ABAP | `prometheus`
 
 <a name="adt" />
 
@@ -167,6 +190,8 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [ABAPQuickFix](https://github.com/fidley/ABAPQuickFix) | ABAPQuickFix | `adt`
 |  [eclipse-abap-keywordcolors](https://github.com/FreHu/eclipse-abap-keywordcolors) | Customized ABAP keyword colors for eclipse | `adt`
 |  [abap-search-tools](https://github.com/stockbal/abap-search-tools) | ABAP Search and Analysis tools (Backend for ADT Plugin) | `adt`
+|  [abap-search-tools-ui](https://github.com/stockbal/abap-search-tools-ui) | Eclipse Plugin for ABAP Search and Analysis Tools | `eclipse`
+|  [abap-tags-backend](https://github.com/stockbal/abap-tags-backend) | ADT Backend for ABAP Tags Plugin | `adt`
 
 <a name="thr" />
 
@@ -177,6 +202,8 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [zthread](https://github.com/xinitrc86/zthread) | Simple Thread implementation for ABAP. Based on JAVA Thread, its Runnable interface with some additional callback capabilities | `concurrency`
 |  [promise](https://github.com/abapify/promise) | ABAP Promise + Async/Await implementation | `async`
 |  [abap-threads](https://github.com/sbcgua/abap-threads) | abap threading utils | `threading`
+|  [ABAPParallelizationService](https://github.com/BiberM/ABAPParallelizationService) | Parallelization Framework for ABAP Systems| `concurrency`
+|  [ABAP-Simple-Async-Framework](https://github.com/MikeSidorochkin/ABAP-Simple-Async-Framework) | Simple Async Framework | `async`
 
 <a name="gen" />
 
@@ -194,6 +221,10 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap_seltab_to_where](https://github.com/abapChaoLiu/abap_seltab_to_where) | Convert ABAP range tables to SQL where clause| `sql`
 |  [zcx_return3](https://github.com/alwinvandeput/zcx_return3) | ABAP exception lclass for handling all kind of procedural error messages | `sql`
 |  [elitechat](https://github.com/AntonSikidin/elitechat) | abap based instant messaging | `chat`
+|  [zspool_pdf](https://github.com/victorizbitskiy/zspool_pdf) | Submitting a report to the spool and receiving PDF | `pdf`
+|  [mime_editor](https://github.com/larshp/mime_editor) | SMIM editor in ABAP | `mime`
+|  [ABAP_TRANSLATION_HUB](https://github.com/DerGuteWolf/ABAP_TRANSLATION_HUB) | Push Object List to Translation Hub and Pull Translations | `translation`
+|  [abap_w3mi_poller](https://github.com/sbcgua/abap_w3mi_poller) | A tool to poll file change and upload changed files automatically as W3MI object | `polling`
 
 <a name="sam" />
 
@@ -209,6 +240,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap_oo_patterns](https://github.com/SchwarzIT/abap_oo_patterns) | Example implementation of OO design patterns in ABAP | `oop`
 |  [excrcism/abap](https://github.com/exercism/abap) | Exercism exercises in ABAP | `exercises`
 |  [New-ABAP-Tips-Tricks](https://github.com/suriyarasu/New-ABAP-Tips-Tricks) | This repository contains new ABAP syntax for S/4HANA Development| `language`
+|  [gladius](https://github.com/tricktresor/gladius) | Learning and challenging with ABAP Unit Test Framework | `testing`
 
 <a name="doc" />
 
