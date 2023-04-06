@@ -305,5 +305,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-docs](https://github.com/eduardocopat/abap-docs) | Enhanced ABAP documentation | `docs`
 |  [CleanABAP](https://github.com/Freedomanda/CleanABAP) | Guideline to improve the ABAP code quality | `language`
 
+---
+
 ### Contributions
 List being updated: feel free to contribute!
