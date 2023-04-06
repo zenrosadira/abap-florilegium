@@ -74,6 +74,13 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abapTableCompare](https://github.com/cavabap/abapTableCompare) | Compares two tables and reports which lines are unchanged, inserted, deleted or changed. | `diff`
 |  [abapMermaid](https://github.com/WegnerDan/abapMermaid) |Integrate Mermaid Diagrams in SAP GUI Containers | `mermaid`
 |  [cdsfindanno](https://github.com/attilaberencsi/cdsfindanno) | Find Annotation Samples in CDS Views | `finder`
+|  [trlist](https://github.com/attilaberencsi/trlist) | Transport Status List | `transport`
+|  [abap-soql-query](https://github.com/gprs555/abap-soql-query) | ABAP Tool for SOQL Query | `soql`
+|  [abap_file_browser](https://github.com/alaible/abap_file_browser) | F4 file browser written in abap | `viewer`
+|  [envysis](https://github.com/sandraros/envysis) | Environment Analysis for ABAP Workbench Objects (where-used list, etc.) | `finder`
+|  [markdown_from_table_or_structure](https://github.com/Keller-Michael/markdown_from_table_or_structure) | 🏭 generate Markdown table from internal table or structure in ABAP | `markdown`
+|  [MBT-Transport-Request](https://github.com/Marc-Bernard-Tools/MBT-Transport-Request) | The ultimate enhancement for displaying of transport requests in SAP GUI | `transport`
+|  [ZEX_HTML_EDITOR](https://github.com/abeljohny/ZEX_HTML_EDITOR) | A simple HTML Editor and Browser written in ABAP | `html`
 
 <a name="codetemp" />
 
@@ -89,6 +96,10 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap_gui_boilerplate](https://github.com/sbcgua/abap_gui_boilerplate) | Boilerplate for ABAP simple application with HTML GUI screen | `gui`
 |  [selection-criteria-as-class](https://github.com/Keller-Michael/selection-criteria-as-class) |  handle selection criteria as global class to keep all criteria together | `screen`
 |  [abap-tvarvc](https://github.com/raketenstart-abap/abap-tvarvc) | TVARVC Helper | `tvarvc`
+|  [abap_include_assembler](https://github.com/sbcgua/abap_include_assembler) | A tool to statically include includes into the main program | `include`
+|  [zeegor](https://github.com/vidyadharg/zeegor) | Simple Batch Programming in ABAP call transaction and Batch session(SM35). | `batch`
+|  [AbapOOReports](https://github.com/oxgl/AbapOOReports) | ABAP Object Oriented Reporting | `oop`
+|  [ABAP-GlobalToLocal](https://github.com/SAP2Moose/ABAP-GlobalToLocal) | APack global ABAP classes in a single report - Simplifies distribution of complex codings | `pack`
 
 <a name="dataform" />
 
@@ -107,6 +118,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-tbox-csvman](https://github.com/zenrosadira/abap-tbox-csvman) | ABAP CSV Manager - An easy-to-use and highly configurable tool to read and create CSV in ABAP | `csv`
 |  [ABAP-HTML-Diff](https://github.com/Marc-Bernard-Tools/ABAP-HTML-Diff) | Library to highlight the content difference between two HTML strings (htmldiff) | `html`
 |  [abap-string-map](https://github.com/sbcgua/abap-string-map) | String map primitive implementation on abap | `stringmap`
+|  [abap_Filehandler](https://github.com/xamafe/abap_Filehandler) | Construction to handle Files in ABAP | `files`
 
 
 <a name="dataproc" />
@@ -123,6 +135,8 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abapPGP](https://github.com/larshp/abapPGP) | ABAP implementation of OpenPGP | `encryption`
 |  [uid64](https://github.com/mkysoft/uid64) | UID-64 generator for ABAP | `uuid`
 |  [GeoJson](https://github.com/se38/GeoJson) | ABAP Classes to create GeoJson strings | `json`
+|  [abap-CSR](https://github.com/sandraros/abap-CSR) | ABAP Charset Recognizer (ICU) | `charset`
+|  [abapITABOperations](https://github.com/joschkarick/abapITABOperations) | Advanced operations for internal tables in ABAP | `tables`
 
 <a name="test" />
 
@@ -169,6 +183,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [vscode-abap](https://github.com/larshp/vscode-abap) | ABAP syntax highlighting for Visual Studio Code | `vsc`
 |  [abap-metrics-provider](https://github.com/abap-observability-tools/abap-metrics-provider) | Let's you use predefined or custom metrics to monitor your abap stack with a monitoring tool of your choice | `performance`
 |  [upDOWNci](https://github.com/larshp/upDOWNci) | Upload and download SAP Code Inspector variants in XML format - ABAP | `inspector`
+|  [ypinc](https://github.com/ypinc/ypinc) | ABAP perfomance primitives | `performance`
 
 <a name="api" />
 
@@ -255,7 +270,13 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-reference](https://github.com/kkayacan/abap-reference) | Samples and utilities for SAP development | `tools`
 |  [ABAPCodeVault](https://github.com/raymondbonnmendoza/ABAPCodeVault) | Reusable code, module specific sample programs, useful FMs, classes and info for ABAP developers | `tools`
 |  [abap-archiving-engine](https://github.com/00500500/abap-archiving-engine) | ABAP Archiving Engine | `archiving`
+|  [abap-tbox-splitter](https://github.com/zenrosadira/abap-tbox-splitter) | ABAP utility class to easily split an internal table in different sub-tables | `tools`
 |  [Vise_for_ABAP](https://github.com/uweku/Vise_for_ABAP) | Vise for ABAP | `refactoring`
+|  [user-exit-scanner](https://github.com/MDagni/user-exit-scanner) | Abap user-exit scanner | `finder`
+|  [ABAP-Check-Translations](https://github.com/juansebastiansoto/ABAP-Check-Translations) | Report to check the translations elements in ABAP | `translation`
+|  [ZFPM_TOOLS](https://github.com/boy0korea/ZFPM_TOOLS#english) | FPM Tools for developers | `fpm`
+|  [MBT-Command-Field](https://github.com/Marc-Bernard-Tools/MBT-Command-Field) | The world's first enhancement for the SAP® GUI command field | `gui`
+|  [abapTechDocu](https://github.com/victorizbitskiy/abapTechDocu) | A tool for creating technical documentation | `tools`
 
 <a name="sam" />
 
