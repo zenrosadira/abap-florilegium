@@ -27,7 +27,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 <a name="docproc" />
 
 ### 🗒️ eMail & Document Processing	
-|   project      |     description      | tags |
+|   project      |     <div style="width:200px">description</div>      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)   | Generate your professional Excel spreadsheet from ABAP     | `excel`
 |  [zcl_docx](https://github.com/AntonSikidin/zcl_docx)   | Best way to create Microsoft Word docx from abap     | `word`
@@ -42,7 +42,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 <a name="ui" />
 
 ### 🎨 UI & Presentation
-|   project      |     description      | tags |
+|   project      |     <div style="width:30px">description</div>      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap2UI5](https://github.com/oblomov-dev/abap2UI5) | Development of UI5 Apps in pure ABAP | `sapui5`
 |  [falv](https://github.com/fidley/falv) | FALV - Fast ALV Grid | `alv`
