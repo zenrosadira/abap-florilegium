@@ -61,7 +61,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [Simple Data Explorer](https://github.com/ysichov/Simple-Data-Explorer) | Simple Data Explorer | `viewer`
 |  [abap-markdown](https://github.com/koemaeda/abap-markdown) | ABAP Markdown | `markdown`
 |  [ztoad](https://github.com/marianfoo/ztoad) | ABAP Open SQL Editor | `viewer`
-|  [abap2yuml](https://github.com/fabiopagoti/abap2yuml) | ABAP Markdown | `uml`
+|  [abap2yuml](https://github.com/fabiopagoti/abap2yuml) | A great tool for converting ABAP code into yUML dsl | `uml`
 |  [ABAP-to-PlantUML](https://github.com/nomssi/ABAP-to-PlantUML) | Create UML Class and Sequence Diagrams from ABAP Code | `uml`
 |  [ZUML_DIAGRAM](https://github.com/coreline/ZUML_DIAGRAM) | The UML Diagram tool for ABAP using PlantUML | `uml`
 |  [ABAPplantUML](https://github.com/sdfraga/ABAPplantUML) | plantUML tools for ABAP Dev | `uml`
