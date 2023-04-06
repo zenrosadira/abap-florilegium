@@ -5,7 +5,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 
 ## Categories
 
-- [Document Processing](#docproc)
+- [eMail & Document Processing](#docproc)
 - [UI & Presentation](#ui)
 - [Code & Data Visualization](#codevis)
 - [Code Templates & Generator](#codetemp)
@@ -19,13 +19,13 @@ A collection of the most popular ABAP-related repository sorted by category and 
 - [Integration](#int)
 - [Adt & Eclipse](#adt)
 - [Threading](#thr)
-- [Generic Utiligies](#gen)
+- [Generic Utilities](#gen)
 - [Samples & Learning](#sam)
 - [Documentation & Informations](#doc)
 
 <a name="docproc" />
 
-### 🗒️ Document Processing	
+### 🗒️ eMail & Document Processing	
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)   | Generate your professional Excel spreadsheet from ABAP     | `excel`
@@ -35,7 +35,8 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [easyHtmlEmail](https://github.com/DryDumbHead/easyHtmlEmail)   | Easy to Generate & Maintain Email in SAP (ABAP + HTML/CSS) | `email`, `html`
 |  [text2tab](https://github.com/sbcgua/text2tab)   | TAB-delimited text parser for ABAP | `text`
 |  [ABAP2XLSX_HELPER](https://github.com/boy0korea/ABAP2XLSX_HELPER)   | abap2xlsx helper | `excel`
-|  [ZwdCSV](https://github.com/WegnerDan/ZwdCSV)   | CSV Parser and Generator for ABAP | `csv`
+|  [ABAP_Sending_Email](https://github.com/eliramy/ABAP_Sending_Email)   | ABAP Sending Email - Class Encapsulation | `email`
+|  [ABAP-HTML-eMail](https://github.com/vidyadharg/ABAP-HTML-eMail)   | SAP ABAP send email using eMail Templates with or without CDS | `email`
 
 <a name="ui" />
 
@@ -47,6 +48,8 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [eui](https://github.com/bizhuka/eui) | Easy UI in SAP | `alv`, `screens`
 |  [sapui5-deployer](https://github.com/Yelcho/sapui5-deployer) | ABAP deployment of SAPUI5 apps from Github | `sapui5`
 |  [abap-ui-toolbox](https://github.com/stockbal/abap-ui-toolbox) | Tools for UI Development like Improved ALV Grid and GUI control framework | `alv`, `gui`
+|  [mvp-salv-table-container-abap](https://github.com/ivantyumenyev/mvp-salv-table-container-abap) | ALV Grid report based on Model-View-Presenter pattern with dynpro screen and container | `alv`
+|  [TALV](https://github.com/AES0P/TALV) | An ALV report framework based on ABAP | `alv`
 
 <a name="codevis" />
 
@@ -60,13 +63,17 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap2yuml](https://github.com/fabiopagoti/abap2yuml) | ABAP Markdown | `uml`
 |  [ABAP-to-PlantUML](https://github.com/nomssi/ABAP-to-PlantUML) | Create UML Class and Sequence Diagrams from ABAP Code | `uml`
 |  [ZUML_DIAGRAM](https://github.com/coreline/ZUML_DIAGRAM) | The UML Diagram tool for ABAP using PlantUML | `uml`
+|  [ABAPplantUML](https://github.com/sdfraga/ABAPplantUML) | plantUML tools for ABAP Dev | `uml`
 |  [abap_debugger_data_view_extension](https://github.com/objective-partner/abap_debugger_data_view_extension) | Extensions to abap debugger to be able to view itab and structure data in a abap-coding friendly way | `debugger`
 |  [abap-db-browser](https://github.com/stockbal/abap-db-browser) | ABAP DB Browser (Tables, Views, CDS Views, Custom Queries, Joins, ...) | `viewer`
 |  [abap_debugger_object_graph_extension](https://github.com/marcellourbani/abap_debugger_object_graph_extension) | ABAP debugger extension to visualize objects as graphs | `debugger`
-|  [abap-code-search-tools](https://github.com/stockbal/abap-code-search-tools) | ABAP Code Search | `search`
+|  [abap-code-search-tools](https://github.com/stockbal/abap-code-search-tools) | ABAP Code Search | `finder`
 |  [ABAP-2-CODE-CHARTA](https://github.com/BenjaminWeisheit/ABAP-2-CODE-CHARTA) | Covert ABAP Metrics to Code Charta | `viewer`
-|  [ZDDIC_FINDER](https://github.com/coreline/ZDDIC_FINDER) | ABAP Dictionary object finder tool | `search`
+|  [ZDDIC_FINDER](https://github.com/coreline/ZDDIC_FINDER) | ABAP Dictionary object finder tool | `finder`
 |  [scf](https://github.com/reyemsaibot/scf) | You are looking for a specific code snippet in your ABAP code. Then use the Source Code Finder to search for every occurrence of it. | `search`
+|  [abapTableCompare](https://github.com/cavabap/abapTableCompare) | Compares two tables and reports which lines are unchanged, inserted, deleted or changed. | `diff`
+|  [abapMermaid](https://github.com/WegnerDan/abapMermaid) |Integrate Mermaid Diagrams in SAP GUI Containers | `mermaid`
+|  [cdsfindanno](https://github.com/attilaberencsi/cdsfindanno) | Find Annotation Samples in CDS Views | `finder`
 
 <a name="codetemp" />
 
@@ -79,6 +86,9 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [FORMfactor](https://github.com/larshp/FORMfactor) | ABAP - Refactor FORMs to local classes | `refactoring`
 |  [abap_bapi_bo_class_generator](https://github.com/alwinvandeput/abap_bapi_bo_class_generator) | ABAP BAPI Business Object Class Generator | `object generation`
 |  [guidrasil](https://github.com/tricktresor/guidrasil) | ABAP GUI designer for Prototyping and more | `gui`
+|  [abap_gui_boilerplate](https://github.com/sbcgua/abap_gui_boilerplate) | Boilerplate for ABAP simple application with HTML GUI screen | `gui`
+|  [selection-criteria-as-class](https://github.com/Keller-Michael/selection-criteria-as-class) |  handle selection criteria as global class to keep all criteria together | `screen`
+|  [abap-tvarvc](https://github.com/raketenstart-abap/abap-tvarvc) | TVARVC Helper | `tvarvc`
 
 <a name="dataform" />
 
@@ -90,6 +100,14 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-file-formats](https://github.com/SAP/abap-file-formats) | File formats that define and specify the file representation for ABAP development objects | `json`
 |  [ajson](https://github.com/sbcgua/ajson) | Yet another json parser serializer for ABAP | `json`
 |  [zcl_mdp_json](https://github.com/fatihpense/zcl_mdp_json) | MDP ABAP JSON library that can generate and parse any JSON string | `json`
+|  [CommonRegexABAP](https://github.com/dmitry-zharinov/CommonRegexABAP) | CommonRegex port for ABAP | `regex`
+|  [abap-json-serialization](https://github.com/timostark/abap-json-serialization) | Fastest possible JSON serialization | `json`
+|  [abap-json-encoder-decoder](https://github.com/valdirmendesdev/abap-json-encoder-decoder) | One more JSON Encoder/Decoder in ABAP | `json`
+|  [ZwdCSV](https://github.com/WegnerDan/ZwdCSV)   | CSV Parser and Generator for ABAP | `csv`
+|  [abap-tbox-csvman](https://github.com/zenrosadira/abap-tbox-csvman) | ABAP CSV Manager - An easy-to-use and highly configurable tool to read and create CSV in ABAP | `csv`
+|  [ABAP-HTML-Diff](https://github.com/Marc-Bernard-Tools/ABAP-HTML-Diff) | Library to highlight the content difference between two HTML strings (htmldiff) | `html`
+|  [abap-string-map](https://github.com/sbcgua/abap-string-map) | String map primitive implementation on abap | `stringmap`
+
 
 <a name="dataproc" />
 
@@ -128,6 +146,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-log](https://github.com/fabianlupa/abap-log)   | Logging library for ABAP | `logger`
 |  [sap-usi-logging-api](https://github.com/SchwarzIT/sap-usi-logging-api)   | An easy-to-use, object-oriented encapsulation around the SAP application log (Transaction SLG1) | `logger`
 |  [simbal](https://github.com/keremkoseoglu/simbal)   | Simple Business Application Log for ABAP | `logger`
+|  [zcl_log_util](https://github.com/neooblaster/zcl_log_util)   | An another ABAP logging class allowing programs to focus on their functionality rather than being buried under lines of logging code | `logger`
 
 <a name="git" />
 
@@ -164,6 +183,10 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abapMQDaemons](https://github.com/se38/abapMQDaemons)   | Deamons for abapMQ | `mqtt`
 |  [abapNTLM](https://github.com/larshp/abapNTLM)   | ABAP HTTP NTLM Client | `ntlm`
 |  [abap-openapi-ui](https://github.com/geert-janklaps/abap-openapi-ui)   | OpenAPI / Swagger UI integration for SAP NetWeaver Gateway | `api`
+|  [abap-http-agent](https://github.com/sbcgua/abap-http-agent)   | AHA - abap http agent, convenience wrapper over cl_http_client | `http`
+|  [consume_rest_api_in_abap](https://github.com/s7oev/consume_rest_api_in_abap)   | Consuming REST APIs with (Cloud) ABAP | `api`
+|  [consume_rest_api_in_abap](https://github.com/pacroy/abap-fluentd)   | Fluentd client in ABAP | `api`
+|  [abap_kafka_rest_proxy](https://github.com/cesar-sap/abap_kafka_rest_proxy)   | ABAP to Confluent Kafka REST Proxy Connector | `proxy`
 
 <a name="int" />
 
@@ -179,6 +202,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [aws-lambda-abap-runtime](https://github.com/open-abap/aws-lambda-abap-runtime) | AWS Lambda ABAP custom runtime | `aws`
 |  [proUBC](https://github.com/provideplatform/proUBC) | Open-source implementation of the PRVD Stack baseline middleware pattern for SAP, using ABAP | `baseline`
 |  [abap-prometheus](https://github.com/pacroy/abap-prometheus) | Prometheus.io Client for ABAP | `prometheus`
+|  [ABAP_DeepL_client](https://github.com/christianguenter2/ABAP_DeepL_client) | ABAP client for DeepL | `deepl`
 
 <a name="adt" />
 
@@ -192,6 +216,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [abap-search-tools](https://github.com/stockbal/abap-search-tools) | ABAP Search and Analysis tools (Backend for ADT Plugin) | `adt`
 |  [abap-search-tools-ui](https://github.com/stockbal/abap-search-tools-ui) | Eclipse Plugin for ABAP Search and Analysis Tools | `eclipse`
 |  [abap-tags-backend](https://github.com/stockbal/abap-tags-backend) | ADT Backend for ABAP Tags Plugin | `adt`
+|  [ABAP-Project-Extensions](https://github.com/fidley/ABAP-Project-Extensions) | ABAP-Project-Extensions | `adt`
 
 <a name="thr" />
 
@@ -210,13 +235,14 @@ A collection of the most popular ABAP-related repository sorted by category and 
 ### 🧰 Generic Utilities
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
-|  [abap-dev-utilities](https://github.com/jrodriguez-rc/abap-dev-utilities) | ABAP Development Utilities | `utilities`
+|  [abap-dev-utilities](https://github.com/jrodriguez-rc/abap-dev-utilities) | ABAP Development Utilities | `tools`
 |  [abaK](https://github.com/abapinho/abaK) | ABAP constants done right | `constants`
 |  [open-table-maintenance](https://github.com/open-abap/open-table-maintenance) | Multi target low footprint ABAP table maintenance | `table maintenance`
 |  [zapcommander](https://github.com/tricktresor/zapcommander) | Filecommander (Norton-Commander-Clone) for SAP-Systems (ABAP) | `commander`
 |  [Customers](https://github.com/fidley/Customers) | Wrapper for CMD_EI_API classes | `customers`
-|  [ABAP-Commons](https://github.com/HannesRempel/ABAP-Commons) | Providing reusable ABAP components | `utilities`
+|  [ABAP-Commons](https://github.com/HannesRempel/ABAP-Commons) | Providing reusable ABAP components | `tools`
 |  [Featuretoggle](https://github.com/btc-ag/Featuretoggle) | A simple, lightweight feature toggle framework for ABAP | `toggle`
+|  [abap-feature-toggle](https://github.com/raketenstart-abap/abap-feature-toggle) | Feature toggle for ABAP | `toggle`
 |  [zscv_search_cds_views](https://github.com/alwinvandeput/zscv_search_cds_views) | ABAP Search CDS Views Tool | `cds`
 |  [abap_seltab_to_where](https://github.com/abapChaoLiu/abap_seltab_to_where) | Convert ABAP range tables to SQL where clause| `sql`
 |  [zcx_return3](https://github.com/alwinvandeput/zcx_return3) | ABAP exception lclass for handling all kind of procedural error messages | `sql`
@@ -225,6 +251,11 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [mime_editor](https://github.com/larshp/mime_editor) | SMIM editor in ABAP | `mime`
 |  [ABAP_TRANSLATION_HUB](https://github.com/DerGuteWolf/ABAP_TRANSLATION_HUB) | Push Object List to Translation Hub and Pull Translations | `translation`
 |  [abap_w3mi_poller](https://github.com/sbcgua/abap_w3mi_poller) | A tool to poll file change and upload changed files automatically as W3MI object | `polling`
+|  [synchronize-SAP-GUI-favorites](https://github.com/Keller-Michael/synchronize-SAP-GUI-favorites) | simple tool to synchronize SAP GUI favorites between systems and clients | `gui`
+|  [abap-reference](https://github.com/kkayacan/abap-reference) | Samples and utilities for SAP development | `tools`
+|  [ABAPCodeVault](https://github.com/raymondbonnmendoza/ABAPCodeVault) | Reusable code, module specific sample programs, useful FMs, classes and info for ABAP developers | `tools`
+|  [abap-archiving-engine](https://github.com/00500500/abap-archiving-engine) | ABAP Archiving Engine | `archiving`
+|  [Vise_for_ABAP](https://github.com/uweku/Vise_for_ABAP) | Vise for ABAP | `refactoring`
 
 <a name="sam" />
 
@@ -241,6 +272,7 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [excrcism/abap](https://github.com/exercism/abap) | Exercism exercises in ABAP | `exercises`
 |  [New-ABAP-Tips-Tricks](https://github.com/suriyarasu/New-ABAP-Tips-Tricks) | This repository contains new ABAP syntax for S/4HANA Development| `language`
 |  [gladius](https://github.com/tricktresor/gladius) | Learning and challenging with ABAP Unit Test Framework | `testing`
+|  [DesignByContract](https://github.com/hardyp/DesignByContract) | Design by Contract in ABAP | `oop`
 
 <a name="doc" />
 
