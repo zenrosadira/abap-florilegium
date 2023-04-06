@@ -306,6 +306,5 @@ A collection of the most popular ABAP-related repository sorted by category and 
 |  [CleanABAP](https://github.com/Freedomanda/CleanABAP) | Guideline to improve the ABAP code quality | `language`
 
 ---
-
 ### Contributions
 List being updated: feel free to contribute!
