@@ -22,6 +22,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 - [Threading](#thr)
 - [Generic Utilities](#gen)
 - [Samples & Learning](#sam)
+- [Games & Experiments](#game)
 - [Documentation & Informations](#doc)
 
 <a name="docproc" />
@@ -295,6 +296,21 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [New-ABAP-Tips-Tricks](https://github.com/suriyarasu/New-ABAP-Tips-Tricks) | This repository contains new ABAP syntax for S/4HANA Development| `language`
 |  [gladius](https://github.com/tricktresor/gladius) | Learning and challenging with ABAP Unit Test Framework | `testing`
 |  [DesignByContract](https://github.com/hardyp/DesignByContract) | Design by Contract in ABAP | `oop`
+
+<a name="game" />
+
+### :video_game: Games & Experiments
+|   project      |     description      | tags |
+|     :---:    |     :---:      | :---: |
+|  [ABAP_conways_game_of_life](https://github.com/christianguenter2/ABAP_conways_game_of_life) | Implementation of Conways Game of Life in ABAP | `game`
+|  [axage](https://github.com/Ennowulff/axage) | ABAP teXt Adventure Game Engine | `game`
+|  [abapdicer](https://github.com/abap-code-dojo/abapdicer) | Yahtzee roboter game | `game`
+|  [ABAP_quiz_and_paint_game](https://github.com/Keller-Michael/ABAP_quiz_and_paint_game) | some fun game for the SAP Community | `game`
+|  [ABAP-MEMORY-GAME](https://github.com/xtbirihan/ABAP-MEMORY-GAME) | Abap Memory Game | `game`
+|  [ZwdHangman](https://github.com/WegnerDan/ZwdHangman) | Hangman for SAP | `game`
+|  [con4abap](https://github.com/lausek/con4abap) | popular connect four game in ABAP | `game`
+|  [ZICA_ML](https://github.com/lucattelli/ZICA_ML) | Machine Learning Library | `machine learning`
+|  [abap_ml](https://github.com/allexch/abap_ml) | Classes and functionality to reproduce basic Machine Learning in ABAP. Starting from vector/matrix API | `machine learning`
 
 <a name="doc" />
 
