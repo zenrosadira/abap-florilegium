@@ -279,6 +279,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [ZFPM_TOOLS](https://github.com/boy0korea/ZFPM_TOOLS#english) | FPM Tools for developers | `fpm`
 |  [MBT-Command-Field](https://github.com/Marc-Bernard-Tools/MBT-Command-Field) | The world's first enhancement for the SAP® GUI command field | `gui`
 |  [abapTechDocu](https://github.com/victorizbitskiy/abapTechDocu) | A tool for creating technical documentation | `tools`
+|  [RESULT-for-ABAP](https://github.com/dominikpanzer/RESULT-for-ABAP) | ABAP implementation of the Result-Pattern | `designpatterns`
 
 <a name="sam" />
 
@@ -296,6 +297,8 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [New-ABAP-Tips-Tricks](https://github.com/suriyarasu/New-ABAP-Tips-Tricks) | This repository contains new ABAP syntax for S/4HANA Development| `language`
 |  [gladius](https://github.com/tricktresor/gladius) | Learning and challenging with ABAP Unit Test Framework | `testing`
 |  [DesignByContract](https://github.com/hardyp/DesignByContract) | Design by Contract in ABAP | `oop`
+|  [ABAP-Lift-Pass-Pricing-Kata](https://github.com/dominikpanzer/ABAP-Lift-Pass-Pricing-Kata) | The Ski Lift Pass Pricing Kata for ABAP Devs | `codekata`
+|  [ABAP-Meterdata-Manager](https://github.com/dominikpanzer/ABAP-Meterdata-Manager) | legacy code refactoring kata based in the utilities domai | `codekata
 
 <a name="game" />
 
