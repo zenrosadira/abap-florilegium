@@ -235,6 +235,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [abap-search-tools-ui](https://github.com/stockbal/abap-search-tools-ui) | Eclipse Plugin for ABAP Search and Analysis Tools | `eclipse`
 |  [abap-tags-backend](https://github.com/stockbal/abap-tags-backend) | ADT Backend for ABAP Tags Plugin | `adt`
 |  [ABAP-Project-Extensions](https://github.com/fidley/ABAP-Project-Extensions) | ABAP-Project-Extensions | `adt`
+|  [abapCI](https://github.com/andau/abapCI) | Continuous Integration for ABAP | `CI`, `adt`
 
 <a name="thr" />
 
