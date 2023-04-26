@@ -315,6 +315,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [ABAP-MEMORY-GAME](https://github.com/xtbirihan/ABAP-MEMORY-GAME) | Abap Memory Game | `game`
 |  [ZwdHangman](https://github.com/WegnerDan/ZwdHangman) | Hangman for SAP | `game`
 |  [con4abap](https://github.com/lausek/con4abap) | popular connect four game in ABAP | `game`
+|  [z_doom](https://github.com/stud0709/z_doom) | DOOM for SAP GUI | `game`
 |  [ZICA_ML](https://github.com/lucattelli/ZICA_ML) | Machine Learning Library | `machine learning`
 |  [abap_ml](https://github.com/allexch/abap_ml) | Classes and functionality to reproduce basic Machine Learning in ABAP. Starting from vector/matrix API | `machine learning`
 
