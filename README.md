@@ -150,6 +150,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [abapFaker](https://github.com/se38/abapFaker)   | ABAP Faker: generate fake test data | `mocking`
 |  [abap_db_preparator](https://github.com/bunysae/abap_db_preparator)   |Avoid breaking tests with database preparation | `db prep`
 |  [regression_test](https://github.com/germanysources/regression_test) | Create snapshots in ABAP | `db prep`
+|  [abap-unit-tests-by-example](https://github.com/Ennowulff/abap-unit-tests-by-example) | Different examples of ABAP unit tests | `examples`
 
 <a name="log" />
 
