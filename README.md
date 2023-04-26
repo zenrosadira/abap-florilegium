@@ -298,7 +298,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [gladius](https://github.com/tricktresor/gladius) | Learning and challenging with ABAP Unit Test Framework | `testing`
 |  [DesignByContract](https://github.com/hardyp/DesignByContract) | Design by Contract in ABAP | `oop`
 |  [ABAP-Lift-Pass-Pricing-Kata](https://github.com/dominikpanzer/ABAP-Lift-Pass-Pricing-Kata) | The Ski Lift Pass Pricing Kata for ABAP Devs | `codekata`
-|  [ABAP-Meterdata-Manager](https://github.com/dominikpanzer/ABAP-Meterdata-Manager) | legacy code refactoring kata based in the utilities domai | `codekata
+|  [ABAP-Meterdata-Manager](https://github.com/dominikpanzer/ABAP-Meterdata-Manager) | legacy code refactoring kata based in the utilities domai | `codekata`
 
 <a name="game" />
 
