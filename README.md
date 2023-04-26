@@ -15,7 +15,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 - [Testing](#test)
 - [Logging](#log)
 - [Packages & Versioning](#git)
-- [Code Inspector / Linter / Performance](#sci)
+- [Code Inspector, Linter & Performance](#sci)
 - [Api & Services](#api)
 - [Integration](#int)
 - [Adt & Eclipse](#adt)
@@ -174,7 +174,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 
 <a name="sci" />
 
-### 🔎 Code Inspector / Linter / Performance
+### 🔎 Code Inspector, Linter & Performance
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [code-pal-for-abap](https://github.com/SAP/code-pal-for-abap)   | Highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.    | `inspector`
