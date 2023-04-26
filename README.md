@@ -9,7 +9,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 - [eMail & Document Processing](#docproc)
 - [UI & Presentation](#ui)
 - [Code & Data Visualization](#codevis)
-- [Code Templates & Generator](#codetemp)
+- [Code Templates & Generators](#codetemp)
 - [Data Formatting](#dataform)
 - [Data Processing](#dataproc)
 - [Testing](#test)
@@ -86,7 +86,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 
 <a name="codetemp" />
 
-### 💡 Code Templates and Generator
+### 💡 Code Templates & Generators
 |   project      |     description      | tags |
 |     :---:    |     :---:      | :---: |
 |  [abap-ddic-creator](https://github.com/Leo-SDU/abap-ddic-creator) | create table and data elements and domains by batching | `object generation`
@@ -280,6 +280,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [MBT-Command-Field](https://github.com/Marc-Bernard-Tools/MBT-Command-Field) | The world's first enhancement for the SAP® GUI command field | `gui`
 |  [abapTechDocu](https://github.com/victorizbitskiy/abapTechDocu) | A tool for creating technical documentation | `tools`
 |  [RESULT-for-ABAP](https://github.com/dominikpanzer/RESULT-for-ABAP) | ABAP implementation of the Result-Pattern | `designpatterns`
+|  [abap-tbox-stats](https://github.com/zenrosadira/abap-tbox-stats) | ABAP Statistical Tool | `statistics`
 
 <a name="sam" />
 
