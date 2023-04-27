@@ -81,6 +81,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [abap_file_browser](https://github.com/alaible/abap_file_browser) | F4 file browser written in abap | `viewer`
 |  [envysis](https://github.com/sandraros/envysis) | Environment Analysis for ABAP Workbench Objects (where-used list, etc.) | `finder`
 |  [markdown_from_table_or_structure](https://github.com/Keller-Michael/markdown_from_table_or_structure) | 🏭 generate Markdown table from internal table or structure in ABAP | `markdown`
+|  [abap2md](https://github.com/hapejot/abap2md) | ABAP to Markdown | `markdown`
 |  [MBT-Transport-Request](https://github.com/Marc-Bernard-Tools/MBT-Transport-Request) | The ultimate enhancement for displaying of transport requests in SAP GUI | `transport`
 |  [ZEX_HTML_EDITOR](https://github.com/abeljohny/ZEX_HTML_EDITOR) | A simple HTML Editor and Browser written in ABAP | `html`
 
