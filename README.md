@@ -238,6 +238,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [abap-tags-backend](https://github.com/stockbal/abap-tags-backend) | ADT Backend for ABAP Tags Plugin | `adt`
 |  [ABAP-Project-Extensions](https://github.com/fidley/ABAP-Project-Extensions) | ABAP-Project-Extensions | `adt`
 |  [abapCI](https://github.com/andau/abapCI) | Continuous Integration for ABAP | `CI`, `adt`
+|  [abap-cleaner](https://github.com/SAP/abap-cleaner) |ABAP cleaner applies 55+ cleanup rules to ABAP code at a single keystroke | `adt`, `clean-code`
 
 <a name="thr" />
 
