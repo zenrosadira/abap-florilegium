@@ -286,6 +286,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [abapTechDocu](https://github.com/victorizbitskiy/abapTechDocu) | A tool for creating technical documentation | `tools`
 |  [RESULT-for-ABAP](https://github.com/dominikpanzer/RESULT-for-ABAP) | ABAP implementation of the Result-Pattern | `designpatterns`
 |  [abap-tbox-stats](https://github.com/zenrosadira/abap-tbox-stats) | ABAP Statistical Tool | `statistics`
+|  [abap-timestamps](https://github.com/whothefluff/abap-timestamps) | Handle dates, times, and time stamps | `dates`
 
 <a name="sam" />
 
