@@ -223,6 +223,7 @@ A collection of the most popular ABAP-related repositories sorted by category or
 |  [proUBC](https://github.com/provideplatform/proUBC) | Open-source implementation of the PRVD Stack baseline middleware pattern for SAP, using ABAP | `baseline`
 |  [abap-prometheus](https://github.com/pacroy/abap-prometheus) | Prometheus.io Client for ABAP | `prometheus`
 |  [ABAP_DeepL_client](https://github.com/christianguenter2/ABAP_DeepL_client) | ABAP client for DeepL | `deepl`
+|  [ABAP_ChatGPT_client](https://github.com/clemens1994/ABAP_ChatGPT_Client) | ABAP client for ChatGPT | `ChatGPT`
 
 <a name="adt" />
 
